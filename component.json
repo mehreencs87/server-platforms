@@ -1,0 +1,7 @@
+{
+  "name": "server-platforms",
+  "description": "Server platforms supported by Auth0's service",
+  "scripts": [ ],
+  "json": [ "index.json" ],
+  "main": "index.json"
+}

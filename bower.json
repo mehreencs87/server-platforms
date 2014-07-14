@@ -1,0 +1,29 @@
+{
+  "name": "server-platforms",
+  "description": "Server platforms supported by Auth0's service",
+  "json": [
+    "index.json"
+  ],
+  "main": "index.json",
+  "version": "0.0.1",
+  "homepage": "https://github.com/auth0/server-platforms",
+  "authors": [
+    "Auth0, Inc. <hello@auth0.com>"
+  ],
+  "keywords": [
+    "auth0",
+    "server",
+    "browser",
+    "platforms"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "components",
+    "build",
+    "test",
+    "tests"
+  ]
+}
