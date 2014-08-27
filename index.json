@@ -42,9 +42,9 @@
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
-    "title": "Ruby",
-    "name": "rails",
-    "url": "/rails-tutorial",
+    "title": "Ruby On Rails",
+    "name": "ruby-on-rails",
+    "url": "/new/server-platforms/rails",
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
