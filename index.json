@@ -2,13 +2,19 @@
   {
     "title": "Node.js",
     "name": "nodejs",
-    "url": "/new/server-platforms/nodejs",
+    "url": "/server-platforms/nodejs",
     "image": "//auth0.com/platforms-collection/img/node.png"
   },
   {
     "title": "ASP.NET",
     "name": "aspnet",
     "url": "/aspnet-tutorial",
+    "image": "//auth0.com/platforms-collection/img/asp.png"
+  },
+  {
+    "title": "ASP Classic",
+    "name": "aspnet-classic",
+    "url": "/server-platforms/aspnet-classic",
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
@@ -26,7 +32,7 @@
   {
     "title": "PHP",
     "name": "php",
-    "url": "/new/server-platforms/php",
+    "url": "/server-platforms/php",
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
@@ -44,19 +50,25 @@
   {
     "title": "Ruby On Rails",
     "name": "ruby-on-rails",
-    "url": "/new/server-platforms/rails",
+    "url": "/server-platforms/rails",
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
     "title": "Java",
     "name": "java",
-    "url": "/new/server-platforms/java",
+    "url": "/server-platforms/java",
     "image": "//auth0.com/platforms-collection/img/java.png"
   },
   {
     "title": "Python",
     "name": "python",
-    "url": "/new/server-platforms/python",
+    "url": "/server-platforms/python",
     "image": "//auth0.com/platforms-collection/img/python.png"
+  },
+  {
+    "title": "NancyFX",
+    "name": "nancyfx",
+    "url": "/server-platforms/nancyfx",
+    "image": "//auth0.com/platforms-collection/img/nancyfx.png"
   }
 ]
