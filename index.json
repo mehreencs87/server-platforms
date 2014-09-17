@@ -13,9 +13,9 @@
   },
   {
     "title": "ASP Classic",
-    "name": "aspnet-classic",
-    "url": "/server-platforms/aspnet-classic",
-    "image": "//auth0.com/platforms-collection/img/asp.png"
+    "name": "asp-classic",
+    "url": "/server-platforms/asp-classic",
+    "image": "//auth0.com/platforms-collection/img/asp-classic.jpg"
   },
   {
     "title": "ASP.NET (OWIN)",
