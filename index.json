@@ -66,6 +66,12 @@
     "image": "//auth0.com/platforms-collection/img/python.png"
   },
   {
+    "title": "Apache",
+    "name": "apache",
+    "url": "/server-platforms/apache",
+    "image": "//auth0.com/platforms-collection/img/apache.jpg"
+  },
+  {
     "title": "NancyFX",
     "name": "nancyfx",
     "url": "/server-platforms/nancyfx",
