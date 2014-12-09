@@ -12,6 +12,12 @@
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
+    "title": "Go Programming Language",
+    "name": "golang",
+    "url": "/server-platforms/golang",
+    "image": "//auth0.com/platforms-collection/img/golang.png"
+  },
+  {
     "title": "ASP Classic",
     "name": "asp-classic",
     "url": "/server-platforms/asp-classic",
