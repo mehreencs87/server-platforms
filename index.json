@@ -60,6 +60,12 @@
     "image": "//auth0.com/platforms-collection/img/rails.png"
   },
   {
+    "title": "Play 2 Scala",
+    "name": "play-2-scala",
+    "url": "/server-platforms/scala",
+    "image": "//auth0.com/platforms-collection/img/play.png"
+  },
+  {
     "title": "Java",
     "name": "java",
     "url": "/server-platforms/java",
