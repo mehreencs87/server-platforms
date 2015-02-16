@@ -8,7 +8,7 @@
   {
     "title": "ASP.NET",
     "name": "aspnet",
-    "url": "/aspnet-tutorial",
+    "url": "/server-platform/aspnet",
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
@@ -26,13 +26,13 @@
   {
     "title": "ASP.NET (OWIN)",
     "name": "aspnet-owin",
-    "url": "/aspnet-owin-tutorial",
+    "url": "/server-platforms/aspnet-owin",
     "image": "//auth0.com/platforms-collection/img/asp.png"
   },
   {
     "title": "ServiceStack",
     "name": "servicestack",
-    "url": "/servicestack-tutorial",
+    "url": "/server-platforms/servicestack",
     "image": "//auth0.com/platforms-collection/img/service-stack.png"
   },
   {
@@ -44,13 +44,13 @@
   {
     "title": "PHP (Laravel)",
     "name": "laravel",
-    "url": "/laravel-tutorial",
+    "url": "/server-platforms/laravel",
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
     "title": "PHP (Symfony)",
     "name": "symfony",
-    "url": "/symfony-tutorial",
+    "url": "/server-platforms/symfony",
     "image": "//auth0.com/platforms-collection/img/php.png"
   },
   {
