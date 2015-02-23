@@ -3,90 +3,90 @@
     "title": "Node.js",
     "name": "nodejs",
     "url": "/server-platforms/nodejs",
-    "image": "//auth0.com/platforms-collection/img/node.png"
+    "image": "//auth0.com/lib/platforms-collection/img/node.png"
   },
   {
     "title": "ASP.NET",
     "name": "aspnet",
     "url": "/server-platforms/aspnet",
-    "image": "//auth0.com/platforms-collection/img/asp.png"
+    "image": "//auth0.com/lib/platforms-collection/img/asp.png"
   },
   {
     "title": "Go",
     "name": "golang",
     "url": "/server-platforms/golang",
-    "image": "//auth0.com/platforms-collection/img/golang.png"
+    "image": "//auth0.com/lib/platforms-collection/img/golang.png"
   },
   {
     "title": "ASP Classic",
     "name": "asp-classic",
     "url": "/server-platforms/asp-classic",
-    "image": "//auth0.com/platforms-collection/img/asp-classic.jpg"
+    "image": "//auth0.com/lib/platforms-collection/img/asp-classic.jpg"
   },
   {
     "title": "ASP.NET (OWIN)",
     "name": "aspnet-owin",
     "url": "/server-platforms/aspnet-owin",
-    "image": "//auth0.com/platforms-collection/img/asp.png"
+    "image": "//auth0.com/lib/platforms-collection/img/asp.png"
   },
   {
     "title": "ServiceStack",
     "name": "servicestack",
     "url": "/server-platforms/servicestack",
-    "image": "//auth0.com/platforms-collection/img/service-stack.png"
+    "image": "//auth0.com/lib/platforms-collection/img/service-stack.png"
   },
   {
     "title": "PHP",
     "name": "php",
     "url": "/server-platforms/php",
-    "image": "//auth0.com/platforms-collection/img/php.png"
+    "image": "//auth0.com/lib/platforms-collection/img/php.png"
   },
   {
     "title": "PHP (Laravel)",
     "name": "laravel",
     "url": "/server-platforms/laravel",
-    "image": "//auth0.com/platforms-collection/img/php.png"
+    "image": "//auth0.com/lib/platforms-collection/img/php.png"
   },
   {
     "title": "PHP (Symfony)",
     "name": "symfony",
     "url": "/server-platforms/symfony",
-    "image": "//auth0.com/platforms-collection/img/php.png"
+    "image": "//auth0.com/lib/platforms-collection/img/php.png"
   },
   {
     "title": "Ruby On Rails",
     "name": "ruby-on-rails",
     "url": "/server-platforms/rails",
-    "image": "//auth0.com/platforms-collection/img/rails.png"
+    "image": "//auth0.com/lib/platforms-collection/img/rails.png"
   },
   {
     "title": "Play 2 Scala",
     "name": "play-2-scala",
     "url": "/server-platforms/scala",
-    "image": "//auth0.com/platforms-collection/img/play.png"
+    "image": "//auth0.com/lib/platforms-collection/img/play.png"
   },
   {
     "title": "Java",
     "name": "java",
     "url": "/server-platforms/java",
-    "image": "//auth0.com/platforms-collection/img/java.png"
+    "image": "//auth0.com/lib/platforms-collection/img/java.png"
   },
   {
     "title": "Python",
     "name": "python",
     "url": "/server-platforms/python",
-    "image": "//auth0.com/platforms-collection/img/python.png"
+    "image": "//auth0.com/lib/platforms-collection/img/python.png"
   },
   {
     "title": "Apache",
     "name": "apache",
     "url": "/server-platforms/apache",
-    "image": "//auth0.com/platforms-collection/img/apache.jpg"
+    "image": "//auth0.com/lib/platforms-collection/img/apache.jpg"
   },
   {
     "title": "NancyFX",
     "name": "nancyfx",
     "url": "/server-platforms/nancyfx",
-    "image": "//auth0.com/platforms-collection/img/nancyfx.png"
+    "image": "//auth0.com/lib/platforms-collection/img/nancyfx.png"
   }
 ]
