@@ -1,6 +1,6 @@
 {
   "name": "server-platforms",
-  "version": "0.1.14",
+  "version": "0.2.0",
   "description": "Server platforms supported by Auth0's service",
   "scripts": [],
   "json": [
